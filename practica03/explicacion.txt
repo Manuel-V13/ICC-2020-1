@@ -1,0 +1,12 @@
+
+OPERADORES
+El codigo establece que se imprimiran 2 cademas de texto seguido del resultado, asi que la linea se imprimira y pasara a resolver el resultado.
+Son distintos el dividendo real que el dividendo entero. Ya que uno se maneja con int y el otro con double.
+Asi que uno tomara el resultado con decimales y el otro lo dara en enteros.
+
+
+PREPOST
+Se imprime 17 2 veces ya que en la linea 5 le pide restar 1 a x y en la linea 7 pide restarle otro.
+
+Luego en la linea 9 y 10 pide imprimir el valor que tenemos en la variable x (que seria 18) menos 1.
+
